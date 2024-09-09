@@ -2,7 +2,7 @@
 // fracturing.c
 // Author: David Velez
 // UCF ID: 5679895
-// Date: 9/1/2024
+// Date: 9/8/2024
 // Class: COP 3223C, Professor Parra
 // Purpose: This program that takes user input in the form of 
 // doubles to create 2 points and output the calculated distance
