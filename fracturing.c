@@ -109,7 +109,6 @@ double calculatePerimeter()
 
 }
 
-
 //********************************************************
 // double calculateArea()
 //
